@@ -1,7 +1,7 @@
 datasciencecoursera
 ===================
 
-##Small projects the from John Hopkins University Data Science sequence on Coursera
+##Small projects from the John Hopkins University Data Science sequence on Coursera
 
 ###Courses:
 * The Data Scientist's Toolbox
